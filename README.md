@@ -20,9 +20,6 @@ to type "enter" or line break in README, add 2 spaces and click the "enter" key.
 * no.1
 * no.2
 * no.3
-<br>  
-<br>
-
 ### hyphented points
 - no.1
 - no.2

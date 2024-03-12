@@ -31,16 +31,23 @@ to type "enter" or line break in README, add 2 spaces and click the "enter" key.
 <br>
 
 ### to add images
-#### for png/jpg/jpeg
-<img src="insert image link here">
+##### for png/jpg/jpeg
+<img src="insert image link here">  
 ![alt text]("insert image link here")
 
-#### for gif
+##### for gif
 ![alt test]("insert gif link here")
 <br>  
 <br>
 
 ### to type in blockcode
-
-
+> I'm a blockquote
+<br>
+`int p = 10;`
+<br>
+```print ("Hello world!");{
+'
+'
+}
+```
 

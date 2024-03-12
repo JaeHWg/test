@@ -40,12 +40,13 @@ to type "enter" or line break in README, add 2 spaces and click the "enter" key.
 <br>  
 <br>
 
-### to type in blockcode
+### to type in blockquote
 > I'm a blockquote
 <br>
 `int p = 10;`
 <br>
-```print ("Hello world!");{
+```
+print ("Hello world!");{
 '
 '
 }

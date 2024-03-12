@@ -44,7 +44,6 @@ to type "enter" or line break in README, add 2 spaces and click the "enter" key.
 > I'm a blockquote
 <br>
 `int p = 10;`
-<br>
 ```
 print ("Hello world!");{
 '

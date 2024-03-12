@@ -4,10 +4,9 @@
 
 ### heading 3
 
-#### heading 4
-
-
-### text formatting
+#### heading 4  
+  
+  ### text formatting
 plain text
 this is an **emphasized** text. this is also __emphasized__ text.  
 this is _italicised_ text. This is also *italicised*.

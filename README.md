@@ -8,7 +8,7 @@
 
 ### text formatting
 plain text
-this is an **emphasized** text. this is also __emphasized__ text. 
+this is an **emphasized** text. this is also __emphasized__ text.  
 this is _italicised_ text. This is also *italicised*.
 
 ### bullet points
